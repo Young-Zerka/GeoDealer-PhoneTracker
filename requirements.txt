@@ -1,0 +1,4 @@
+phonenumbers==8.12.34
+opencage==1.2.2
+folium==0.12.1
+json==2.0.9
